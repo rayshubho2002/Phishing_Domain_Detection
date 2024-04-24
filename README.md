@@ -1,3 +1,7 @@
+
+https://github.com/vishutyagi123/Phishing_Domain_Detection/assets/128316490/faf9234e-7a60-45e8-9b0e-810e3e485db2
+
+
 # Phishing Domain Detection
 Phishing is a prevalent form of cybercrime where attackers impersonate legitimate entities to deceive users into divulging sensitive information. This project focuses on predicting whether domains are real or malicious, using machine learning algorithms and advanced feature engineering techniques.
 
