@@ -35,6 +35,6 @@ We follow a comprehensive machine learning pipeline to tackle the phishing domai
 - Similarity to known phishing templates
 - Sentiment analysis of textual content
 
-  Link to Project details : https://drive.google.com/file/d/1ZVl3es98VcvLXFw89fGp4t4N8AZEme8a/view
-  Paper Linkk : https://www.sciencedirect.com/science/article/pii/S2352340920313202
-  Dataset Link : https://data.mendeley.com/datasets/72ptz43s9v/1
+  - **Link to Project details:** https://drive.google.com/file/d/1ZVl3es98VcvLXFw89fGp4t4N8AZEme8a/view
+  - **Paper Link:** https://www.sciencedirect.com/science/article/pii/S2352340920313202
+  - **Dataset Link:** https://data.mendeley.com/datasets/72ptz43s9v/1
